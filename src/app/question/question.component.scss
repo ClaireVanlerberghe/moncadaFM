@@ -5,8 +5,9 @@
     backdrop-filter: blur(17.5px);
     display: flex;
     align-items: center;
-    padding: 14px 14px;
-    width: 500px;
+    padding: 14px 20px;
+    width: 980px;
+    height: 125px;
     margin-left: 20px;
     margin-top: 30px;
     .questionInput{
@@ -16,10 +17,15 @@
         border-radius: 20px;
         border: none;
         background: none;
-        padding: 22px 242px 22px 30px;
+        padding: 40px 482px 40px 30px;
+        font-size: 28px;
     }
     .questionButton{
         background: none;
         border: none;
+        img{
+            width: 75px;
+        padding-left: 20px;
+        }
     }
 }
