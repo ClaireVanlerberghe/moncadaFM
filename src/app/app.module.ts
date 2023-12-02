@@ -7,6 +7,8 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { HeaderComponent } from './header/header.component';
 import { QuestionComponent } from './question/question.component';
 import { LibraryComponent } from './library/library.component';
+import { SpeakButtonComponent } from './speak-button/speak-button.component';
+import { JingleComponent } from './jingle/jingle.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +17,8 @@ import { LibraryComponent } from './library/library.component';
     HeaderComponent,
     QuestionComponent,
     LibraryComponent,
+    SpeakButtonComponent,
+    JingleComponent,
   ],
   imports: [
     BrowserModule,

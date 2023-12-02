@@ -1,0 +1,14 @@
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="microphone-off" clip-path="url(#clip0_113_81)">
+<path id="Vector" d="M5.625 5.625L39.375 39.375" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M16.875 9.375C16.875 7.88316 17.4676 6.45242 18.5225 5.39752C19.5774 4.34263 21.0082 3.75 22.5 3.75C23.9918 3.75 25.4226 4.34263 26.4775 5.39752C27.5324 6.45242 28.125 7.88316 28.125 9.375V18.75C28.1251 19.3053 28.0429 19.8575 27.8812 20.3888M24.1313 24.1388C23.2906 24.3935 22.4021 24.4478 21.5367 24.2974C20.6713 24.1469 19.8532 23.796 19.1478 23.2725C18.4425 22.7491 17.8695 22.0677 17.4748 21.283C17.0802 20.4983 16.8747 19.6321 16.875 18.7538V16.8788" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M9.375 18.75C9.37459 21.1188 10.0152 23.4435 11.229 25.4777C12.4428 27.5118 14.1845 29.1796 16.2693 30.3041C18.3542 31.4286 20.7045 31.9679 23.071 31.8649C25.4375 31.7618 27.732 31.0202 29.7112 29.7188M33.4613 25.9688C34.8747 23.8269 35.6259 21.3162 35.6212 18.75" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M15 39.375H30" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M22.5 31.875V39.375" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_113_81">
+<rect width="45" height="45" fill="white"/>
+</clipPath>
+</defs>
+</svg>
