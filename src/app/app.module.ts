@@ -9,6 +9,7 @@ import { QuestionComponent } from './question/question.component';
 import { LibraryComponent } from './library/library.component';
 import { SpeakButtonComponent } from './speak-button/speak-button.component';
 import { JingleComponent } from './jingle/jingle.component';
+import { InProgressComponent } from './in-progress/in-progress.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { JingleComponent } from './jingle/jingle.component';
     LibraryComponent,
     SpeakButtonComponent,
     JingleComponent,
+    InProgressComponent,
   ],
   imports: [
     BrowserModule,
